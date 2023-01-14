@@ -7,6 +7,7 @@ This boilerplate has the following features:
 * user management - user sign up, login, password reset
 * role management - admin and user roles, disable user
 * image upload
+* postman endpoint test scripts
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
